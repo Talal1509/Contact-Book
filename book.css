@@ -1,0 +1,25 @@
+body {
+  background-color: cadetblue;
+  color: white;
+}
+table {
+  border-color: rgb(0, 0, 0);
+}
+td {
+  padding: 8px 16px;
+}
+.col {
+  font-weight: bold;
+  font-size: 18px;
+  background-color: cornsilk;
+}
+tr {
+  background-color: darkcyan;
+  color: black;
+  text-align: center;
+}
+input {
+  font-size: 16px;
+  background-color: rgb(116, 204, 204);
+  text-emphasis-color: black;
+}
